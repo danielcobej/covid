@@ -1,0 +1,12 @@
+matplotlib 
+pandas 
+seaborn 
+xgboost 
+lightgbm 
+scikit-learn 
+imbalanced-learn 
+numpy 
+dash 
+dash-bootstrap-components 
+explainerdashboard
+openpyxl
